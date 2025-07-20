@@ -1,0 +1,6 @@
+@InsightMid_HostAddress = http://localhost:5157
+
+GET {{InsightMid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
